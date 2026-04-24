@@ -1,0 +1,141 @@
+id_venda,data,vendedor,produto,regiao,valor
+1109,2024-02-24,Julia Ferreira,Batom,RJ,204.95
+1068,2024-03-08,Marta Reis,Hidratante,RJ,104.99
+1032,2024-03-23,Patricia Nunes,Protetor Solar,SP,157.76
+1120,2024-04-15,julia ferreira,Base,BA,237.59
+1043,2024-06-18,Ana Lima,Protetor Solar,rj,84.05
+1013,2024-02-21,Julia Ferreira,Sérum,RS,166.21
+1082,2024-07-27,Patricia Nunes,Máscara Capilar,RJ,232.93
+1070,2024-11-30,Patricia Nunes,Hidratante,BA,88.86
+1105,2024-04-25,Carla Souza,Batom,SP,30.63
+1110,2024-12-22,Patricia Nunes,Base,SP,0.0
+1114,2024-08-31,Julia Ferreira,Sérum,RJ,213.17
+1057,2024-01-30,Patricia Nunes,Máscara Capilar,BA,34.02
+1067,2024-02-21,Ana Lima,Protetor Solar,RJ,136.35
+1020,2024-09-12,Julia Ferreira,Máscara Capilar,RS,
+1020,2024-09-12,Julia Ferreira,Máscara Capilar,RS,
+1079,2024-10-25,Patricia Nunes,Batom,RS,49.31
+1012,2024-01-24,Carla Souza,Sérum,SP,216.72
+1028,2024-11-24,  Marta Reis  ,Hidratante,mg,120.0
+1128,2024-08-07,Carla Souza,Base,RJ,31.57
+1111,2024-03-03,Julia Ferreira,Batom,RS,173.54
+1037,2024-03-25,Marta Reis,Protetor Solar,BA,117.32
+1119,2024-07-27,Marta Reis,Protetor Solar,RS,115.63
+1061,2024-04-30,Julia Ferreira,Hidratante,BA,76.63
+1005,28/11/2024,Patricia Nunes,Base,RJ,123.32
+1041,2024-10-10,Carla Souza,Protetor Solar,RJ,21.65
+1027,2024-01-06,Ana Lima,Máscara Capilar,BA,
+1082,2024-07-27,Patricia Nunes,Máscara Capilar,RJ,232.93
+1097,2024-06-16,,Máscara Capilar,MG,147.51
+1017,2024-11-23,Patricia Nunes,Batom,MG,213.86
+1019,2024-02-03,Carla Souza,Protetor Solar,MG,68.9
+1011,12/11/2024,Marta Reis,Protetor Solar,RJ,
+1112,2024-10-13,Patricia Nunes,Sérum,RS,160.91
+1102,2024-08-14,,Protetor Solar,RS,202.56
+1095,2024-12-06,Marta Reis,Protetor Solar,mg,0.0
+1052,03/10/2024,Ana Lima,Hidratante,RJ,58.25
+1046,2024-07-27,Carla Souza,Hidratante,SP,171.57
+1083,2024-05-01,Carla Souza,Batom,RS,25.7
+1070,2024-11-30,Patricia Nunes,Hidratante,BA,88.86
+1066,2024-02-07,Ana Lima,Base,ba,249.64
+1001,2024-11-23,Ana Lima,Hidratante,MG,76.33
+1056,2024-09-06,carla souza,Batom,MG,70.07
+1029,2024-08-20,Ana Lima,Máscara Capilar,MG,243.53
+1041,2024-10-10,Carla Souza,Protetor Solar,RJ,21.65
+1025,2024-08-04,Patricia Nunes,Hidratante,RS,107.77
+1094,2024-10-02,Carla Souza,Sérum,RS,36.09
+1127,2024-10-30,Patricia Nunes,Máscara Capilar,SP,39.31
+1113,2024-09-15,Julia Ferreira,Protetor Solar,RS,226.36
+1065,2024-12-09,Marta Reis,Base,MG,233.67
+1045,2024-10-19,Patricia Nunes,Base,RJ,200.46
+1016,2024-05-05,Carla Souza,Base,RS,82.09
+1090,13/05/2024,Carla Souza,Protetor Solar,MG,28.8
+1040,2024-05-06,carla souza,Hidratante,MG,24.84
+1023,2024-03-11,Patricia Nunes,Base,SP,193.83
+1106,2024-08-31,Patricia Nunes,Hidratante,RS,115.32
+1077,2024-08-06,Patricia Nunes,Hidratante,SP,37.31
+1101,2024-10-23,Patricia Nunes,Máscara Capilar,MG,126.95
+1048,2024-01-28,Ana Lima,Hidratante,RS,187.49
+1031,2024-09-16,Patricia Nunes,Batom,RJ,
+1084,2024-06-19,Julia Ferreira,Máscara Capilar,RJ,81.37
+1074,2024-05-08,Ana Lima,Hidratante,RS,210.75
+1010,2024-07-12,Ana Lima,Protetor Solar,MG,210.76
+1034,2024-06-06,Carla Souza,Hidratante,RJ,221.94
+1078,2024-12-19,Carla Souza,Protetor Solar,SP,
+1026,2024-08-27,Patricia Nunes,Sérum,BA,217.98
+1087,2024-04-26,Carla Souza,Hidratante,RJ,111.65
+1063,2024-10-25,Patricia Nunes,Protetor Solar,MG,
+1069,2024-03-21,Julia Ferreira,Protetor Solar,MG,160.69
+1057,2024-01-30,Patricia Nunes,Máscara Capilar,BA,34.02
+1054,2024-03-25,Julia Ferreira,Hidratante,RS,81.0
+1006,32/03/2024,ana lima,Batom,RS,98.26
+1081,2024-05-07,Ana Lima,Sérum,BA,223.35
+1086,2024-04-23,Carla Souza,Base,MG,90.19
+1050,2024-03-12,Julia Ferreira,Batom,MG,126.4
+1036,2024-09-29,Carla Souza,Batom,RS,237.78
+1035,2024-02-10,Ana Lima,Máscara Capilar,RS,207.69
+1098,2024-04-08,Julia Ferreira,Máscara Capilar,RS,175.78
+1008,19/02/2024,Marta Reis,Sérum,BA,80.84
+1044,2024-09-05,Carla Souza,Protetor Solar,RJ,186.37
+1071,2024-12-05,Ana Lima,Batom,MG,46.55
+1085,2024-12-25,Ana Lima,Base,SP,217.48
+1118,2024-12-21,Carla Souza,Máscara Capilar,RJ,34.77
+1124,2024-08-11,Julia Ferreira,Hidratante,RS,97.31
+1009,2024-01-23,Julia Ferreira,Protetor Solar,SP,243.82
+1014,05/07/2024,Carla Souza,Sérum,MG,68.19
+1032,2024-03-23,Patricia Nunes,Protetor Solar,SP,157.76
+1004,2024-09-15,  Patricia Nunes  ,Hidratante,BA,65.73
+1018,29/01/2024,Carla Souza,Hidratante,MG,0.0
+1039,2024-07-23,Marta Reis,Base,BA,123.84
+1073,2024-04-17,Marta Reis,Batom,MG,136.24
+1115,2024-05-21,Patricia Nunes,Base,RJ,83.16
+1007,2024-03-20,,Sérum,SP,41.33
+1096,2024-03-04,Marta Reis,Protetor Solar,MG,173.39
+1126,2024-03-06,  Patricia Nunes  ,Protetor Solar,SP,228.59
+1130,2024-07-13,Marta Reis,Base,MG,0.0
+1055,2024-08-20,Marta Reis,Base,BA,172.23
+1051,2024-02-08,,Protetor Solar,SP,31.64
+1099,2024-03-30,Patricia Nunes,Protetor Solar,MG,113.4
+1047,2024-06-30,Julia Ferreira,Base,RS,218.68
+1129,2024-07-13,Marta Reis,Batom,RS,95.17
+1062,2024-10-31,ana lima,Protetor Solar,SP,116.42
+1106,2024-08-31,Patricia Nunes,Hidratante,RS,115.32
+1080,2024-06-06,,Hidratante,mg,68.32
+1116,2024-02-09,Marta Reis,Batom,MG,97.24
+1092,2024-09-18,Ana Lima,Base,BA,63.72
+1042,2024-12-28,Ana Lima,Batom,sp,228.25
+1059,2024-09-28,Carla Souza,Hidratante,BA,38.43
+1091,2024-11-01,Julia Ferreira,Sérum,MG,120.37
+1049,2024-02-25,Carla Souza,Batom,RJ,143.35
+1089,2024-07-23,Patricia Nunes,Sérum,SP,
+1121,11/01/2024,Patricia Nunes,Base,RS,21.36
+1125,2024-12-13,Julia Ferreira,Máscara Capilar,RJ,213.32
+1058,09/06/2024,Ana Lima,Hidratante,BA,129.66
+1076,2024-05-14,Carla Souza,Máscara Capilar,RS,146.89
+1033,2024-09-07,ana lima,Hidratante,MG,222.11
+1116,2024-02-09,Marta Reis,Batom,MG,97.24
+1060,2024-04-05,Ana Lima,Protetor Solar,SP,175.3
+1064,14/04/2024,Marta Reis,Batom,MG,111.03
+1123,2024-10-06,Patricia Nunes,Batom,RS,70.47
+1038,2024-04-18,Patricia Nunes,Máscara Capilar,RJ,183.98
+1030,2024-04-01,patricia nunes,Hidratante,mg,213.58
+1108,2024-05-04,  Carla Souza  ,Máscara Capilar,SP,225.31
+1056,2024-09-06,carla souza,Batom,MG,70.07
+1002,2024-03-12,Ana Lima,Máscara Capilar,BA,40.0
+1053,2024-09-05,Julia Ferreira,Batom,RS,227.56
+1022,2024-10-26,Julia Ferreira,Protetor Solar,RS,103.26
+1003,2024-08-04,Ana Lima,Hidratante,SP,70.29
+1024,2024-02-26,Carla Souza,Máscara Capilar,RJ,202.18
+1104,2024-11-13,Marta Reis,Hidratante,RJ,174.74
+1100,2024-01-01,Marta Reis,Sérum,RJ,118.87
+1117,2024-10-03,Ana Lima,Batom,RJ,73.19
+1088,2024-05-22,  Ana Lima  ,Sérum,MG,167.54
+1075,2024-01-23,Ana Lima,Sérum,RJ,166.54
+1122,2024-06-29,marta reis,Base,RS,143.79
+1027,2024-01-06,Ana Lima,Máscara Capilar,BA,
+1021,2024-03-12,Carla Souza,Máscara Capilar,BA,143.96
+1072,2024-02-24,Patricia Nunes,Batom,MG,84.8
+1107,2024-11-18,Patricia Nunes,Batom,RS,133.71
+1015,2024-05-16,Ana Lima,Protetor Solar,RJ,142.85
+1093,2024-01-23,Julia Ferreira,Hidratante,BA,232.88
+1103,2024-03-27,Ana Lima,Sérum,BA,172.69
